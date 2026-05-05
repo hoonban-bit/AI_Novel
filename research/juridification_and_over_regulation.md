@@ -24,6 +24,11 @@ Yes, this is a globally recognized trend known as **"Algorithmic Governance"** o
 - "Smart Cities" use sensors to monitor noise levels, waste disposal, and crowds.
 Technology removes the "human friction" from enforcing laws. While this makes societies highly efficient and seemingly "safer," it also makes them incredibly rigid. An algorithm does not understand nuance, empathy, or context; it only knows binary compliance (whether a rule was broken or not). As a result, global society is moving further away from informal human compromise and deeper into absolute formal control.
 
+### AI and the Rise of Digital Totalitarianism (Totalitarianism 2.0)
+Because algorithms only understand strict, formal rule compliance, outsourcing society's "Social Control" to Artificial Intelligence has led sociologists to coin terms like **"Surveillance Capitalism"** (coined by Shoshana Zuboff) and **"Totalitarianism 2.0"** (or Digital Dictatorship). 
+
+When technology perfectly enforces every single formal rule, the result is a society that *looks* democratic on paper but functions exactly like a totalitarian state in practice. In traditional totalitarianism (like Stalin's Soviet Union), the state used secret police and fear to force compliance. In a modern AI-governed society, compliance is forced through convenience, algorithms, predictive analytics, and digital surveillance. You cannot argue with an algorithm or ask a camera for forgiveness. Therefore, the absolute formalization of rules via AI naturally pushes global societies toward a seamless, "soft" totalitarianism.
+
 ---
 
 ## 개요 (Korean)
@@ -49,3 +54,8 @@ Technology removes the "human friction" from enforcing laws. While this makes so
 - 알고리즘은 복잡한 서비스 약관을 위반한 소셜 미디어 사용자를 자동으로 차단합니다.
 - "스마트 시티"는 센서를 사용하여 소음 수준, 쓰레기 처리 및 인파를 모니터링합니다.
 기술은 법을 집행하는 과정에서 발생하는 "인간적인 마찰"을 제거합니다. 이는 사회를 매우 효율적이고 겉보기에는 "더 안전하게" 만들지만, 동시에 믿을 수 없을 정도로 경직되게 만듭니다. 알고리즘은 뉘앙스, 공감 또는 맥락을 이해하지 못하며, 오직 이분법적인 준수 여부(규칙을 어겼는지 아닌지)만 압니다. 그 결과, 글로벌 사회는 비공식적인 인간의 타협에서 점점 더 멀어지고 절대적이고 공식적인 통제의 늪으로 빠져들고 있습니다.
+
+### AI와 디지털 전체주의의 부상 (전체주의 2.0)
+알고리즘은 엄격하고 공식적인 규칙 준수만을 이해하기 때문에, 사회의 "사회 통제"를 인공지능에 아웃소싱하는 현상은 사회학자들로 하여금 **"감시 자본주의(Surveillance Capitalism)"**(쇼샤나 주보프 고안) 및 **"전체주의 2.0(Totalitarianism 2.0)"**(또는 디지털 독재)과 같은 용어를 만들어내게 했습니다.
+
+기술이 모든 공식적인 규칙을 완벽하게 집행할 때, 그 결과 서류상으로는 민주적으로 보이지만 실제로는 전체주의 국가와 똑같이 기능하는 사회가 됩니다. 전통적인 전체주의(스탈린의 소련 등)에서 국가는 사람들의 복종을 강요하기 위해 비밀경찰과 공포를 이용했습니다. 현대의 AI가 통치하는 사회에서 복종은 편의성, 알고리즘, 예측 분석, 디지털 감시를 통해 강요됩니다. 알고리즘과 논쟁하거나 카메라에 용서를 구할 수는 없습니다. 따라서 AI를 통한 규칙의 절대적인 공식화는 자연스럽게 글로벌 사회를 매끄럽고 "부드러운" 전체주의로 밀어넣고 있습니다.
